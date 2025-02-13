@@ -1,0 +1,14 @@
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\bin\Debug\net8.0\ETrocas.exe
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\bin\Debug\net8.0\ETrocas.deps.json
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\bin\Debug\net8.0\ETrocas.runtimeconfig.json
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\bin\Debug\net8.0\ETrocas.dll
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\bin\Debug\net8.0\ETrocas.pdb
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ETrocas.GeneratedMSBuildEditorConfig.editorconfig
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ETrocas.AssemblyInfoInputs.cache
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ETrocas.AssemblyInfo.cs
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ETrocas.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ETrocas.dll
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\refint\ETrocas.dll
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ETrocas.pdb
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ETrocas.genruntimeconfig.cache
+A:\CURSOS\C#\Fontes\ETrocas\ETrocas\obj\Debug\net8.0\ref\ETrocas.dll
